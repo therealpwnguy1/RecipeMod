@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "recipemod",
+  "version": "1.0.0",
+
+  "name": "Recipe Mod",
+  "description": "Adds useful recipe shortcuts.",
+  "authors": [
+    "therealpwnguy1"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/therealpwnguy1s-recipe-mod",
+    "sources": "https://github.com/therealpwnguy1/RecipeMod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/recipemod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.therealpwnguy1.recipemod.RecipeMod"
+    ]
+  },
+  "mixins": [
+  
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  },
+  "suggests": 
+  {
+	
+  }
+}
