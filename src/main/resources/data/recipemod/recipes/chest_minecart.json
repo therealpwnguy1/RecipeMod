@@ -13,8 +13,7 @@
             "item": "minecraft:iron_ingot"
         },
         "C": {
-        	"item": "minecraft:chest",
-        	"item": "cursedchests:chest"
+        	"item": "minecraft:chest"
         }
     },
     
